@@ -1,5 +1,4 @@
 const express = require('express');
-const { route } = require('../app');
 const RecursoIndevidoError = require('../errors/RecursoIndevidoError');
 
 module.exports = (app) => {
