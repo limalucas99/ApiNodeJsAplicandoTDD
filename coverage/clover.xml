@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1641710137926" clover="3.2.0">
-  <project timestamp="1641710137926" name="All files">
+<coverage generated="1657179361884" clover="3.2.0">
+  <project timestamp="1657179361884" name="All files">
     <metrics statements="299" coveredstatements="281" conditionals="70" coveredconditionals="65" methods="125" coveredmethods="108" elements="494" coveredelements="454" complexity="0" loc="299" ncloc="299" packages="7" files="20" classes="20"/>
     <package name="seubarriga">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="knexfile.js" path="C:\curso-tdd-node\seubarriga\knexfile.js">
+      <file name="knexfile.js" path="C:\Cursos\curso-tdd-node\seubarriga\knexfile.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="7" type="stmt"/>
       </file>
     </package>
     <package name="seubarriga.seeds">
       <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
-      <file name="01_transfer.js" path="C:\curso-tdd-node\seubarriga\seeds\01_transfer.js">
+      <file name="01_transfer.js" path="C:\Cursos\curso-tdd-node\seubarriga\seeds\01_transfer.js">
         <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
@@ -23,7 +23,7 @@
         <line num="21" count="2" type="stmt"/>
         <line num="29" count="2" type="stmt"/>
       </file>
-      <file name="02_balance.js" path="C:\curso-tdd-node\seubarriga\seeds\02_balance.js">
+      <file name="02_balance.js" path="C:\Cursos\curso-tdd-node\seubarriga\seeds\02_balance.js">
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
@@ -35,7 +35,7 @@
     </package>
     <package name="seubarriga.src">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
-      <file name="app.js" path="C:\curso-tdd-node\seubarriga\src\app.js">
+      <file name="app.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\app.js">
         <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
@@ -56,13 +56,13 @@
     </package>
     <package name="seubarriga.src.config">
       <metrics statements="28" coveredstatements="26" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="6"/>
-      <file name="middlewares.js" path="C:\curso-tdd-node\seubarriga\src\config\middlewares.js">
+      <file name="middlewares.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\config\middlewares.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="7" type="stmt"/>
         <line num="4" count="7" type="stmt"/>
         <line num="5" count="7" type="stmt"/>
       </file>
-      <file name="passport.js" path="C:\curso-tdd-node\seubarriga\src\config\passport.js">
+      <file name="passport.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\config\passport.js">
         <metrics statements="14" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
@@ -79,7 +79,7 @@
         <line num="24" count="7" type="stmt"/>
         <line num="25" count="7" type="stmt"/>
       </file>
-      <file name="router.js" path="C:\curso-tdd-node\seubarriga\src\config\router.js">
+      <file name="router.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\config\router.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -96,13 +96,13 @@
     </package>
     <package name="seubarriga.src.errors">
       <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
-      <file name="RecursoIndevidoError.js" path="C:\curso-tdd-node\seubarriga\src\errors\RecursoIndevidoError.js">
+      <file name="RecursoIndevidoError.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\errors\RecursoIndevidoError.js">
         <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="7" type="cond" truecount="1" falsecount="0"/>
         <line num="2" count="5" type="stmt"/>
         <line num="3" count="5" type="stmt"/>
       </file>
-      <file name="ValidationError.js" path="C:\curso-tdd-node\seubarriga\src\errors\ValidationError.js">
+      <file name="ValidationError.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\errors\ValidationError.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="29" type="stmt"/>
@@ -111,7 +111,7 @@
     </package>
     <package name="seubarriga.src.routes">
       <metrics statements="138" coveredstatements="122" conditionals="10" coveredconditionals="10" methods="74" coveredmethods="59"/>
-      <file name="accounts.js" path="C:\curso-tdd-node\seubarriga\src\routes\accounts.js">
+      <file name="accounts.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\accounts.js">
         <metrics statements="30" coveredstatements="27" conditionals="2" coveredconditionals="2" methods="19" coveredmethods="16"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -144,7 +144,7 @@
         <line num="47" count="1" type="stmt"/>
         <line num="50" count="7" type="stmt"/>
       </file>
-      <file name="auth.js" path="C:\curso-tdd-node\seubarriga\src\routes\auth.js">
+      <file name="auth.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\auth.js">
         <metrics statements="22" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
@@ -169,7 +169,7 @@
         <line num="31" count="0" type="stmt"/>
         <line num="35" count="7" type="stmt"/>
       </file>
-      <file name="balance.js" path="C:\curso-tdd-node\seubarriga\src\routes\balance.js">
+      <file name="balance.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\balance.js">
         <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -180,7 +180,7 @@
         <line num="9" count="0" type="stmt"/>
         <line num="12" count="7" type="stmt"/>
       </file>
-      <file name="transactions.js" path="C:\curso-tdd-node\seubarriga\src\routes\transactions.js">
+      <file name="transactions.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\transactions.js">
         <metrics statements="30" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="19" coveredmethods="14"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
@@ -213,7 +213,7 @@
         <line num="42" count="0" type="stmt"/>
         <line num="45" count="7" type="stmt"/>
       </file>
-      <file name="transfers.js" path="C:\curso-tdd-node\seubarriga\src\routes\transfers.js">
+      <file name="transfers.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\transfers.js">
         <metrics statements="35" coveredstatements="30" conditionals="2" coveredconditionals="2" methods="22" coveredmethods="17"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
@@ -251,7 +251,7 @@
         <line num="51" count="0" type="stmt"/>
         <line num="54" count="7" type="stmt"/>
       </file>
-      <file name="users.js" path="C:\curso-tdd-node\seubarriga\src\routes\users.js">
+      <file name="users.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\routes\users.js">
         <metrics statements="13" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -270,7 +270,7 @@
     </package>
     <package name="seubarriga.src.services">
       <metrics statements="96" coveredstatements="96" conditionals="53" coveredconditionals="49" methods="27" coveredmethods="27"/>
-      <file name="account.js" path="C:\curso-tdd-node\seubarriga\src\services\account.js">
+      <file name="account.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\services\account.js">
         <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="6" methods="6" coveredmethods="6"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -291,14 +291,14 @@
         <line num="30" count="1" type="stmt"/>
         <line num="35" count="7" type="stmt"/>
       </file>
-      <file name="balance.js" path="C:\curso-tdd-node\seubarriga\src\services\balance.js">
+      <file name="balance.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\services\balance.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
         <line num="3" count="10" type="stmt"/>
         <line num="12" count="7" type="stmt"/>
       </file>
-      <file name="transaction.js" path="C:\curso-tdd-node\seubarriga\src\services\transaction.js">
+      <file name="transaction.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\services\transaction.js">
         <metrics statements="22" coveredstatements="22" conditionals="21" coveredconditionals="21" methods="6" coveredmethods="6"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -323,7 +323,7 @@
         <line num="42" count="1" type="stmt"/>
         <line num="47" count="7" type="stmt"/>
       </file>
-      <file name="transfer.js" path="C:\curso-tdd-node\seubarriga\src\services\transfer.js">
+      <file name="transfer.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\services\transfer.js">
         <metrics statements="32" coveredstatements="32" conditionals="16" coveredconditionals="14" methods="8" coveredmethods="8"/>
         <line num="1" count="7" type="stmt"/>
         <line num="3" count="7" type="stmt"/>
@@ -358,7 +358,7 @@
         <line num="70" count="1" type="stmt"/>
         <line num="73" count="7" type="stmt"/>
       </file>
-      <file name="user.js" path="C:\curso-tdd-node\seubarriga\src\services\user.js">
+      <file name="user.js" path="C:\Cursos\curso-tdd-node\seubarriga\src\services\user.js">
         <metrics statements="20" coveredstatements="20" conditionals="9" coveredconditionals="8" methods="5" coveredmethods="5"/>
         <line num="1" count="7" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
